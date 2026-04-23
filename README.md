@@ -43,18 +43,18 @@ currency-converter/
 
 ## Live ECS Application
 
-![ECS App](./images/Live%20ECS%20Web%20App.png)
+![ECS App](Currency_Converter/images/Live%20ECS%20Web%20App.png)
 
 ---
 
 ## 🔌 API Gateway Test (Successful Response)
 
-![API Test](./images/API%20Gateway%20test.png)
-![API Test](./images/API%20Gateway%20Test%20Screenshot.png)
+![API Test](Currency_Converter/images/API%20Gateway%20test.png)
+![API Test](Currency_Converter/images/API%20Gateway%20Test%20Screenshot.png)
 
 ---
 
 ## 📊 CloudWatch Dashboard (Lambda Monitoring)
 Displays Lambda Invocations and Errors metrics.
 
-![CloudWatch](./images/Capstone-Dashboard.png)
+![CloudWatch](Currency_Converter/images/Capstone-Dashboard.png)
